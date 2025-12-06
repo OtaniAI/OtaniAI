@@ -1,57 +1,40 @@
-Dr Masayuki Otani — AI Strategy, Feasibility & Implementation
+# Dr Masayuki Otani  
+### AI Strategy • Feasibility • ROI Modelling • Enterprise Adoption Architecture
 
-Founder & Chief Architect of AI Consultant Insights (AICI)
-PhD in Artificial Intelligence, Imperial College London
-United Kingdom
+Founder & Chief Architect of **AI Consultant Insights (AICI)**, a multilingual AI consultancy platform providing automated AI Opportunity, Feasibility, and Integration Reports in 72 languages for organisations of all sizes.
 
-About AICI
+My work focuses on **disciplined, numbers-driven AI adoption**—replacing hype with clear financial modelling, applied strategy, and actionable implementation plans.
 
-AICI is a multilingual AI consultancy platform delivering:
+I architect AI systems that help businesses answer three core questions:
 
-AI Opportunity Reports
+1. **Where does AI create real value?**  
+2. **What will it cost?**  
+3. **How do we implement it safely, profitably, and responsibly?**
 
-Feasibility Reports
+---
 
-Integration Plans
+## 🔹 Current Work
+- Building **AICI**, a global self-serve AI consultancy ecosystem combining AI analysis with human oversight.  
+- Developing enterprise-grade AI workflows for **ROI forecasting**, **process automation**, and **AI-agent integration**.  
+- Publishing daily multilingual AI news and research summaries.
 
-Operational ROI models
+---
 
-Workforce transformation analysis
+## 🔹 Academic Background
+- **PhD in Artificial Intelligence**, Imperial College London  
+- Research in neural networks, chaotic system control, and expert systems  
+- MSc Business Computing, City University London  
+- BSc Computer Science, Queen Mary University London  
 
-Available in 72 languages across 188 countries.
-Website → https://aiconsultantinsights.com
+---
 
-Research & Background
+## 🔹 Platforms
+🌐 https://aiconsultantinsights.com/  
+🔗 LinkedIn: https://www.linkedin.com/in/dr-masayuki-otani-52170a140/  
+📰 Medium: https://medium.com/@OtaniAI  
+🐦 Twitter/X: https://twitter.com/OtaniAI  
 
-My doctoral research focused on:
+---
 
-Neural networks
+### “AI adoption must be financially grounded, operationally realistic, and globally scalable.”  
 
-Chaotic system modelling
-
-Complex systems
-
-Intelligent optimisation
-
-Find Me Online
-
-LinkedIn → https://www.linkedin.com/in/dr-masayuki-otani-52170a140
-
-Medium → https://medium.com/@otanaigroup
-
-AICI → https://aiconsultantinsights.com
-
-<!--
-**OtaniAI/OtaniAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
